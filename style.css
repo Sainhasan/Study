@@ -1,0 +1,17 @@
+#tmb-materi{
+    background-color: rgb(218, 218, 218);
+}
+
+#tmb-materi button{
+    border-radius: 10px;
+    box-shadow: 2px 3px 5px rgb(57, 57, 57);
+    transition: 0.3s ease-in-out;
+}
+
+#tmb-materi button:hover{
+    background-color: blue;
+    box-shadow: 4px 4px 10px  black;
+    transform: translateY(-2px);
+    color: rgb(255, 255, 255);
+    pointer-events: auto;
+}
