@@ -1,6 +1,6 @@
 // Your Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDJz4COZ_NKgtziL9wvWEEPyZFN6OkjyPM",
+    apiKey: "-",
     authDomain: "autentikasi-study.firebaseapp.com",
     projectId: "autentikasi-study",
     storageBucket: "autentikasi-study.firebasestorage.app",
